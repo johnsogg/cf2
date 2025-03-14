@@ -8,8 +8,7 @@ Also like last time, this is a study guide and not a complete replacement for
 the course content thus far.
 
 The general vibe of the test will be the same as last time: a bunch of multiple
-choice questions, diagram comprehension and production questions, etc. I plan
-to ask one programming question, and another short essay question.
+choice questions, diagram comprehension and production questions, etc.
 
 # Topics and question types
 
