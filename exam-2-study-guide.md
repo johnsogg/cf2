@@ -1,4 +1,7 @@
-# ATLAS 2270 Spring 2025 Exam 2 Study Guide
+# ATLAS 2270 Spring ~~2025~~ 2026 Exam 2 Study Guide
+
+**Note: this was originally written for Spring 2025, but it is still 
+completely accurate for 2026.**
 
 Like last time: don't panic! Unless you don't study, haven't done the homeworks,
 asked for help, etc. In that case, maybe panic? Or study. Studying would be
